@@ -31,3 +31,9 @@ $ cd IPChor
 
 $ python ipchor.py -v victim ip address
 Example - python ipchor.py -v 192.168.4.0
+
+
+# Screenshot
+
+![Screenshot_20210501-195555_1](https://user-images.githubusercontent.com/68107213/116784695-7b577b80-aab7-11eb-8ccb-e0f5566a8514.png)
+
