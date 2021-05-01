@@ -8,6 +8,8 @@ A simple python script for tracking ip addresses
 
 # Installation
 
+$ apt install git -y
+
 $ apt update -y
 
 $ apt upgrade -y
@@ -27,7 +29,7 @@ $ git clone https://github.com/XPL01T3R/IPChor
 
 # One command installation
 
-$ apt update && apt upgrade && apt install python && apt install python2 && apt install git && pip install lolcat && pip install requests
+$ apt update && apt upgrade && apt install python && apt install git && apt install python2 && apt install git && pip install lolcat && pip install requests
 
 
 # For Running
