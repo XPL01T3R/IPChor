@@ -22,6 +22,8 @@ $ pip install lolcat
 
 $ pip install requests
 
+$ git clone https://github.com/XPL01T3R/IPChor
+
 
 # One command installation
 
